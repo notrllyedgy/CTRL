@@ -6,7 +6,7 @@ title CTRL
 
 set /p username=Username: 
 
-if %username%==drake (
+if %username%==ekard (
 
 goto 2
 
@@ -24,7 +24,7 @@ exit
 set /p password=Password: 
 cls
 
-if %password%==max (
+if %password%==xam (
 
 goto cmd
 
